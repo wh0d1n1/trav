@@ -10,6 +10,7 @@ import { ProgressBarStyle } from './components/ProgressBar';
 import NotistackProvider from './components/NotistackProvider';
 import MotionLazyContainer from './components/animate/MotionLazyContainer';
 
+
 export default function App() {
   return (
     <MotionLazyContainer>
